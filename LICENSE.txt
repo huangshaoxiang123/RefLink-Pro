@@ -1,0 +1,17 @@
+RefLink Pro 闭源软件许可协议（All Rights Reserved）
+
+Copyright (c) 2026 RefLink Author (WeChat: hsx15299177861). All rights reserved.
+
+1. 本仓库仅提供 RefLink Pro 官方编译安装包、图文使用文档与用户问题反馈渠道，不构成任何开源代码授权。
+2. 未经著作权人事先书面许可，任何个人或组织不得对本软件及分发包进行反向工程、反混淆、修改、去授权、二次打包、冒名发布或商业转售。
+3. 合法获取的永久激活码（RLK1- / RLKP- / RLKX-）仅授权用于对应单台绑定设备的个人学习与科研写作，禁止公开传播或转售。
+4. 本软件按“现状”（AS IS）提供；执行「生成 PDF 跳转」前请务必另存定稿副本。著作权人不对因第三方办公软件升级、异常断电或误操作导致的数据损失承担超出法定范围的责任。
+
+---
+
+PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED
+
+This repository distributes official compiled installer packages and user documentation for RefLink Pro only.
+No open-source license is granted. Reverse engineering, deobfuscation, modification, license circumvention,
+repackaging, or unauthorized redistribution/resale is strictly prohibited without prior written permission
+from the copyright holder.
